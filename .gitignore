@@ -1,0 +1,12 @@
+.DS_Store
+.git/*
+.idea/*
+__pycache__/*
+venv/*
+config.py
+helpers.py
+*.csv
+*.xls*
+*.txt
+*.pdf
+*.doc*
